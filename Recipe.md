@@ -12,7 +12,7 @@
 * 備註：蛋黃會呈現半熟濃稠液體狀，蛋越新鮮越好...
 
 <center>
-<img src="./Sunny-side-up egg-1.jpg" width="50%"/><img src="./Sunny-side-up egg-2.jpg" width="50%" />
+<img src="./Sunny-side-up-egg-1.jpg" width="50%"/><img src="./Sunny-side-up-egg-2.jpg" width="50%" />
 </center>
 
 ### 嫩肩牛排 ###
