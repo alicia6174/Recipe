@@ -1,7 +1,11 @@
-### 設備：RAFU電晶爐，火力1~5 (設備的火力是決定烹調時間的關鍵) ###
+## 煎烤 ##
+### 設備 ###
+* RAFU電晶爐(火力1~5)：設備的火力是決定烹調時間的關鍵
 
 ### 調味料 ###
-<center> <img src="./ingredients.jpg" width="50%" /> </center>
+<center>
+<img src="./Condiment-1.jpg" width="50%" /> 
+</center>
 
 ### 太陽蛋 ###
 * 材料：蛋，奶油，鹽，黑胡椒.
@@ -15,7 +19,7 @@
 <img src="./Sunny-side-up-egg-1.jpg" width="50%"/><img src="./Sunny-side-up-egg-2.jpg" width="50%" />
 </center>
 
-### 嫩肩牛排 ###
+### 煎牛排 ###
 * 材料：牛排，奶油，鹽，黑胡椒.
 * 作法：
 	* 牛排先拿出冰箱置於室溫1hr，表面用紙巾擦一下再抹點鹽&黑胡椒.
@@ -25,7 +29,8 @@
 * 備註：以上會煎出外焦熟內粉紅的牛排；牛排部位是重點，最好挑油脂多的，煎出來的牛排才會軟嫩...
 
 <center>
-<img src="./Steak-1.jpg" width="50%"/><img src="./Steak-2.jpg" width="50%" />
+<img src="./Steak-1.jpg" width="50%"/><img src="./Steak-2.jpg" width="49%"/>
+<img src="./Steak-3.jpg" width="50%"/>
 </center>
 
 ###  蔥肉捲 ###
@@ -55,6 +60,79 @@
 
 <center>
 <img src="./Sausage-1.jpg" width="50%"/><img src="./Sausage-2.jpg" width="50%" />
+</center>
+
+## 蒸煮 ##
+### 設備 ###
+* Melaleuca電蒸鍋：下有電鍋可煮飯，上有蒸籠可蒸東西.
+* RAFU電晶爐(火力1~5)：設備的火力是決定烹調時間的關鍵
+
+### 調味料 ###
+<center>
+<img src="./Condiment-2.jpg" width="27%" />
+<img src="./Condiment-3.jpg" width="30%" />
+</center>
+
+### 半熟蛋 ###
+* 材料：蛋，水.
+* 作法：
+	* 清洗蛋表面.
+	* 鍋裡裝足夠的水(大約淹過蛋即可)開大火5煮滾.
+	* 將蛋放入煮約7min.
+	* 把蛋撈起放入冷水即可.
+* 備註：煮的時間依個人喜好...
+
+<center>
+<img src="./Boiled-egg-1.jpg" width="50%"/><img src="./Boiled-egg-2.jpg" width="50%" />
+</center>
+
+### 燙青菜 ###
+* 材料：青菜，水，醬油or油膏.
+* 作法：
+	* 將青菜根部撕掉，再撕成數小把清洗後泡水.
+	* 鍋裡裝足夠的水開大火5煮滾.
+	* 將青菜放入煮約3min.
+	* 把菜撈起調味即可.
+* 備註：可在煮的時候放入薑絲&香油&鹽增添風味，最後選用醬油or油膏依個人喜好；個人喜歡A菜、菠菜、龍鬚菜、皇宮菜...
+
+<center>
+<img src="./Boiled-vegetable-1.jpg" width="50%"/><img src="./Boiled-vegetable-2.jpg" width="50%" />
+</center>
+
+### 清蒸魚 ###
+* 材料：魚，蔥，薑，米酒，龜甲萬鰹魚和露.
+* 作法：
+	* 將魚洗淨用米酒&少許水醃置(可放些許薑片).
+	* 準備蔥花&薑片(或薑絲).
+	* 把魚擺入蒸盤內，撒上蔥花&薑片，淋上和露&米酒各1大匙.
+	* 開啟電蒸鍋蒸熟即可.
+* 備註：個人偏愛鮭魚、鯛魚、比目魚，可同時擺上菇類或豆腐一起蒸；佐料可多加蒜片&辣椒，和露份量依個人喜好添加...
+
+<center>
+<img src="./Steamed-fish-1.jpg" width="30%"/>
+<img src="./Steamed-fish-2.jpg" width="30%"/>
+<img src="./Steamed-fish-3.jpg" width="26%"/>
+</center>
+
+<center>
+<img src="./Steamed-fish-4.jpg" width="30%"/>
+<img src="./Steamed-fish-5.jpg" width="30%"/>
+<img src="./Steamed-fish-6.jpg" width="30%"/>
+</center>
+
+
+### 咖哩雞 ###
+* 材料：佛蒙特咖哩3塊，水450ml，米酒1大匙，雞腿肉250~300g，青花菜1/2棵，洋蔥1顆，菇類1包.
+* 作法：
+	* 雞肉用米酒&少許水醃置(冷凍雞肉要先沖冷水解凍).
+	* 青花菜沖水切開去硬皮後泡熱水，洋蔥削皮切絲，菇類稍微沖水備用.
+	* 雞肉川燙過後切塊.
+	* 在鍋內放入所有材料和水，中火3煮15min.
+	* 放入咖哩塊，中小火2煮10min至湯呈濃稠狀(不斷攪拌)即可關火.
+* 備註：此為兩人份食譜，咖哩可改用日本ZEPPIN咖哩1/4盒，肉類可改用牛肉(選軟嫩部位)，洋蔥1顆可改為洋蔥&馬鈴薯各1/2顆...
+
+<center>
+<img src="./Curry-rice-1.jpg" width="50%"/><img src="./Curry-rice-2.jpg" width="50%" />
 </center>
 
 
