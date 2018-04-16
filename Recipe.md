@@ -4,7 +4,7 @@
 
 ### 調味料 ###
 <center>
-<img src="./Condiment.jpg" width="50%" /> 
+<img src="./Condiment.jpg" width="40%" /> 
 </center>
 
 ### 太陽蛋 ###
@@ -16,7 +16,8 @@
 * 備註：蛋黃會呈現半熟濃稠液體狀，蛋越新鮮越好...
 
 <center>
-<img src="./Sunny-side-up-egg-1.jpg" width="50%"/><img src="./Sunny-side-up-egg-2.jpg" width="50%" />
+<img src="./Sunny-side-up-egg-1.jpg" width="40%"/>
+<img src="./Sunny-side-up-egg-3.jpg" width="40%"/>
 </center>
 
 ### 煎牛排 ###
@@ -29,8 +30,9 @@
 * 備註：依此可煎出外焦熟內粉紅的牛排；牛排部位是重點，最好挑油脂多的，煎出來的牛排才會軟嫩...
 
 <center>
-<img src="./Steak-1.jpg" width="50%"/><img src="./Steak-2.jpg" width="49%"/>
-<img src="./Steak-3.jpg" width="50%"/>
+<img src="./Steak-1.jpg" width="40%"/>
+<img src="./Steak-2.jpg" width="39%"/>
+<img src="./Steak-3.jpg" width="40%"/>
 </center>
 
 ###  蔥肉捲 ###
@@ -43,10 +45,12 @@
 * 備註：肉捲不要捲得太厚以免內部煎不熟；五花肉，梅花肉，培根肉，雪花牛都可以用，個人偏好梅花肉，不會太瘦不會太油...
 
 <center>
-<img src="./Meat-roll-1.jpg" width="50%"/><img src="./Meat-roll-2.jpg" width="50%" />
+<img src="./Meat-roll-1.jpg" width="40%"/>
+<img src="./Meat-roll-2.jpg" width="40%"/>
 </center>
 <center>
-<img src="./Meat-roll-3.jpg" width="50%"/><img src="./Meat-roll-4.jpg" width="50%" />
+<img src="./Meat-roll-3.jpg" width="40%"/>
+<img src="./Meat-roll-4.jpg" width="40%"/>
 </center>
 
 ### 煎香腸 ###
@@ -59,8 +63,12 @@
 * 備註：黑橋牌德國Q脆腸可以切一半後在尾端劃4刀做八腳章魚造型...
 
 <center>
-<img src="./Sausage-1.jpg" width="50%"/><img src="./Sausage-2.JPG" width="50%" />
+<img src="./Sausage-1.jpg" width="40%"/>
+<img src="./Sausage-2.jpg" width="40%"/>
 </center>
+
+<!-- <div style="page-break-after: always;"></div> -->
+<div style="page-break-after: always;"></div>
 
 ## 蒸煮 ##
 ### 設備 ###
@@ -69,8 +77,7 @@
 
 ### 調味料 ###
 <center>
-<img src="./Condiment-2.jpg" width="27%" />
-<img src="./Condiment-3.jpg" width="30%" />
+<img src="./Condiment-for-steamed-food.jpg" width="40%" />
 </center>
 
 ### 半熟蛋 ###
@@ -83,7 +90,21 @@
 * 備註：煮的時間依個人喜好...
 
 <center>
-<img src="./Boiled-egg-1.jpg" width="50%"/><img src="./Boiled-egg-2.jpg" width="50%" />
+<img src="./Boiled-egg-3.jpg" width="40%"/>
+<img src="./Boiled-egg-2.jpg" width="40%"/>
+</center>
+
+### 水波蛋 ###
+* 材料：蛋，水.
+* 作法：
+	* 蛋先打好備用.
+	* 鍋裡裝半鍋的水，開大火5煮滾後馬上熄火，鍋子移開火爐.
+	* 等水面平靜時，將蛋放入鍋裡約4min.
+	* 小心把蛋撈起即可.
+* 備註：煮的時間依個人喜好，此法需要夠新鮮的蛋才行，蛋會黏鍋底要用鏟子或湯勺鏟起來...
+
+<center>
+<img src="./Poached-egg.jpg" width="40%"/>
 </center>
 
 ### 燙青菜 ###
@@ -96,7 +117,8 @@
 * 備註：煮的時候可放薑絲&香油&鹽增添風味，最後選用醬油or油膏依個人喜好；個人喜歡A菜、菠菜、龍鬚菜、皇宮菜...
 
 <center>
-<img src="./Boiled-vegetable-1.jpg" width="50%"/><img src="./Boiled-vegetable-2.jpg" width="50%" />
+<img src="./Boiled-vegetable-1.jpg" width="40%"/>
+<img src="./Boiled-vegetable-2.jpg" width="40%"/>
 </center>
 
 ### 清蒸魚 ###
@@ -132,7 +154,31 @@
 * 備註：此為兩人份食譜，咖哩可改用日本ZEPPIN咖哩1/4盒，肉類可改用牛肉(選軟嫩部位)，洋蔥1顆可改為洋蔥&馬鈴薯各1/2顆...
 
 <center>
-<img src="./Curry-rice-1.jpg" width="50%"/><img src="./Curry-rice-2.jpg" width="50%" />
+<img src="./Curry-rice-1.jpg" width="40%"/>
+<img src="./Curry-rice-2.jpg" width="40%"/>
 </center>
 
+### 豬肉丼 ###
+* 材料：豬肉片250g，洋蔥1顆，醬汁如下，米酒少許，奶油少許，蔥花少許，七味粉，蛋2顆，白飯.
+* 醬汁：醬油1大匙、味霖1大匙、和露1大匙、糖1大匙、水1大匙.
+* 作法：
+	* 肉片切半用米酒&水醃置.
+	* 洋蔥切絲，調好醬汁，準備蔥花.
+	* 開中火3熱鍋，抹好奶油，放入洋蔥，炒約2min.
+	* 轉中小火2，倒入醬汁，蓋上鍋蓋悶約6min.
+	* 放入肉片，用筷子將肉片分開，攪拌約5min.
+	* 熄火，鍋子移開火爐，蓋上鍋蓋，用餘溫將肉片悶熟入味.
+	* 蛋可選擇料理成生蛋、半熟蛋、或水波蛋.
+	* 準備一碗白飯，將鍋內的料倒在飯上，佐以蔥花&蛋&七味粉即可.
+* 備註：也可先將蛋打好，熄火前將蛋液均勻倒入鍋內，等蛋半熟後熄火.
 
+<center>
+<img src="./Donburi-5.jpg" width="38%"/>
+<img src="./Donburi-1.jpg" width="30%"/>
+</center>
+
+<center>
+<img src="./Donburi-2.jpg" width="30%"/>
+<img src="./Donburi-3.jpg" width="30%"/>
+<img src="./Donburi-4.jpg" width="30%"/>
+</center>
