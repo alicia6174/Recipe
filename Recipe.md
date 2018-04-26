@@ -30,9 +30,14 @@
 * 備註：依此可煎出外焦熟內粉紅的牛排；牛排部位是重點，最好挑油脂多的，煎出來的牛排才會軟嫩...
 
 <center>
-<img src="./Steak-1.jpg" width="40%"/>
-<img src="./Steak-2.jpg" width="39%"/>
-<img src="./Steak-3.jpg" width="40%"/>
+<img src="./Steak-1.jpg" width="30%"/>
+<img src="./Steak-2.jpg" width="29.25%"/>
+<img src="./Steak-3.jpg" width="30%"/>
+</center>
+
+<center>
+<img src="./Steak-4.jpg" width="40%"/>
+<img src="./Steak-5.jpg" width="40%"/>
 </center>
 
 ###  蔥肉捲 ###
