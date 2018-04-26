@@ -1,10 +1,30 @@
+&nbsp; <p>
+&nbsp; <p>
+# <center> Guan's Recipe Book </center> #
+&nbsp; <p>
+&nbsp; <p>
+&nbsp; <p>
+<center> <img src="./Photos/Whats-cooking.png" width="50%" /> </center>
+&nbsp; <p>
+&nbsp; <p>
+&nbsp; <p>
+&nbsp; <p>
+&nbsp; <p>
+### <center> Alicia G. Hildegard </center> ###
+### <center> yhguan8128@gmail.com </center> ###
+&nbsp; <p>
+&nbsp; <p>
+&nbsp; <p>
+
+<div style="page-break-after: always;"></div>
+
 ## 煎炒 ##
 ### 設備 ###
 * RAFU電晶爐(火力1~5)：設備的火力是決定烹調時間的關鍵
 
 ### 調味料 ###
 <center>
-<img src="./Condiment.jpg" width="40%" /> 
+<img src="./Photos/Condiment.jpg" width="40%" /> 
 </center>
 
 ### 太陽蛋 ###
@@ -16,9 +36,11 @@
 * 備註：蛋黃會呈現半熟濃稠液體狀，蛋越新鮮越好...
 
 <center>
-<img src="./Sunny-side-up-egg-1.jpg" width="40%"/>
-<img src="./Sunny-side-up-egg-3.jpg" width="40%"/>
+<img src="./Photos/Sunny-side-up-egg-1.jpg" width="40%"/>
+<img src="./Photos/Sunny-side-up-egg-3.jpg" width="40%"/>
 </center>
+
+<div style="page-break-after: always;"></div>
 
 ### 煎牛排 ###
 * 材料：牛排，奶油，鹽，黑胡椒.
@@ -30,14 +52,14 @@
 * 備註：依此可煎出外焦熟內粉紅的牛排；牛排部位是重點，最好挑油脂多的，煎出來的牛排才會軟嫩...
 
 <center>
-<img src="./Steak-1.jpg" width="30%"/>
-<img src="./Steak-2.jpg" width="29.25%"/>
-<img src="./Steak-3.jpg" width="30%"/>
+<img src="./Photos/Steak-1.jpg" width="30%"/>
+<img src="./Photos/Steak-2.jpg" width="29.25%"/>
+<img src="./Photos/Steak-3.jpg" width="30%"/>
 </center>
 
 <center>
-<img src="./Steak-4.jpg" width="40%"/>
-<img src="./Steak-5.jpg" width="40%"/>
+<img src="./Photos/Steak-4.jpg" width="40%"/>
+<img src="./Photos/Steak-5.jpg" width="40%"/>
 </center>
 
 ###  蔥肉捲 ###
@@ -50,12 +72,12 @@
 * 備註：肉捲不要捲得太厚以免內部煎不熟；五花肉，梅花肉，培根肉，雪花牛都可以用，個人偏好梅花肉，不會太瘦不會太油...
 
 <center>
-<img src="./Meat-roll-1.jpg" width="40%"/>
-<img src="./Meat-roll-2.jpg" width="40%"/>
+<img src="./Photos/Meat-roll-1.jpg" width="40%"/>
+<img src="./Photos/Meat-roll-2.jpg" width="40%"/>
 </center>
 <center>
-<img src="./Meat-roll-3.jpg" width="40%"/>
-<img src="./Meat-roll-4.jpg" width="40%"/>
+<img src="./Photos/Meat-roll-3.jpg" width="40%"/>
+<img src="./Photos/Meat-roll-4.jpg" width="40%"/>
 </center>
 
 ### 煎香腸 ###
@@ -68,11 +90,10 @@
 * 備註：黑橋牌德國Q脆腸可以切一半後在尾端劃4刀做八腳章魚造型...
 
 <center>
-<img src="./Sausage-1.jpg" width="40%"/>
-<img src="./Sausage-2.jpg" width="40%"/>
+<img src="./Photos/Sausage-1.jpg" width="40%"/>
+<img src="./Photos/Sausage-2.jpg" width="40%"/>
 </center>
 
-<!-- <div style="page-break-after: always;"></div> -->
 <div style="page-break-after: always;"></div>
 
 ## 蒸煮 ##
@@ -82,7 +103,7 @@
 
 ### 調味料 ###
 <center>
-<img src="./Condiment-for-steamed-food.jpg" width="40%" />
+<img src="./Photos/Condiment-for-steamed-food.jpg" width="40%" />
 </center>
 
 ### 溏心蛋 ###
@@ -95,8 +116,8 @@
 * 備註：煮的時間依個人喜好...
 
 <center>
-<img src="./Boiled-egg-3.jpg" width="40%"/>
-<img src="./Boiled-egg-2.jpg" width="40%"/>
+<img src="./Photos/Boiled-egg-3.jpg" width="40%"/>
+<img src="./Photos/Boiled-egg-2.jpg" width="40%"/>
 </center>
 
 ### 水波蛋 ###
@@ -109,8 +130,8 @@
 * 備註：煮的時間依個人喜好，此法需要夠新鮮的蛋才行，蛋會黏鍋底要用鏟子或湯勺鏟起來...
 
 <center>
-<img src="./Poached-egg.jpg" width="40%"/>
-<img src="./Donburi-4.jpg" width="40%"/>
+<img src="./Photos/Poached-egg.jpg" width="40%"/>
+<img src="./Photos/Donburi-4.jpg" width="40%"/>
 </center>
 
 ### 燙青菜 ###
@@ -123,8 +144,8 @@
 * 備註：煮的時候可放薑絲&香油&鹽增添風味，最後選用醬油or油膏依個人喜好；個人喜歡A菜、菠菜、龍鬚菜、皇宮菜...
 
 <center>
-<img src="./Boiled-vegetable-1.jpg" width="40%"/>
-<img src="./Boiled-vegetable-2.jpg" width="40%"/>
+<img src="./Photos/Boiled-vegetable-1.jpg" width="40%"/>
+<img src="./Photos/Boiled-vegetable-2.jpg" width="40%"/>
 </center>
 
 ### 清蒸魚 ###
@@ -137,15 +158,15 @@
 * 備註：佐料可多加蒜片&辣椒，和露份量依個人喜好添加，可不用和露改用其他蒸魚醬油；個人偏愛鮭魚、鯛魚、比目魚，可同時擺上菇類或豆腐一起蒸...
 
 <center>
-<img src="./Steamed-fish-1.jpg" width="30%"/>
-<img src="./Steamed-fish-2.jpg" width="30%"/>
-<img src="./Steamed-fish-3.jpg" width="26%"/>
+<img src="./Photos/Steamed-fish-1.jpg" width="30%"/>
+<img src="./Photos/Steamed-fish-2.jpg" width="30%"/>
+<img src="./Photos/Steamed-fish-3.jpg" width="26%"/>
 </center>
 
 <center>
-<img src="./Steamed-fish-4.jpg" width="30%"/>
-<img src="./Steamed-fish-5.jpg" width="30%"/>
-<img src="./Steamed-fish-6.jpg" width="30%"/>
+<img src="./Photos/Steamed-fish-4.jpg" width="30%"/>
+<img src="./Photos/Steamed-fish-5.jpg" width="30%"/>
+<img src="./Photos/Steamed-fish-6.jpg" width="30%"/>
 </center>
 
 
@@ -160,8 +181,8 @@
 * 備註：此為兩人份食譜，咖哩可改用日本ZEPPIN咖哩1/4盒，肉類可改用牛肉(選軟嫩部位)，洋蔥1顆可改為洋蔥&馬鈴薯各1/2顆...
 
 <center>
-<img src="./Curry-rice-1.jpg" width="40%"/>
-<img src="./Curry-rice-2.jpg" width="40%"/>
+<img src="./Photos/Curry-rice-1.jpg" width="40%"/>
+<img src="./Photos/Curry-rice-2.jpg" width="40%"/>
 </center>
 
 ### 日式豬肉丼 ###
@@ -179,14 +200,14 @@
 * 備註：蛋可選擇料理成滑蛋、溏心蛋、或水波蛋.
 
 <center>
-<img src="./Donburi-5.jpg" width="38%"/>
-<img src="./Donburi-1.jpg" width="30%"/>
+<img src="./Photos/Donburi-5.jpg" width="38%"/>
+<img src="./Photos/Donburi-1.jpg" width="30%"/>
 </center>
 
 <center>
-<img src="./Donburi-2.jpg" width="30%"/>
-<img src="./Donburi-3.jpg" width="30%"/>
-<img src="./Donburi-4.jpg" width="30%"/>
+<img src="./Photos/Donburi-2.jpg" width="30%"/>
+<img src="./Photos/Donburi-3.jpg" width="30%"/>
+<img src="./Photos/Donburi-4.jpg" width="30%"/>
 </center>
 
 ### 月見牛肉丼 ###
@@ -208,8 +229,8 @@
 * 備註：可改用鮭魚，比較沒腥味...
 
 <center>
-<img src="./Snapper-donburi-1.jpg" width="38%"/>
-<img src="./Snapper-donburi-2.jpg" width="35%"/>
+<img src="./Photos/Snapper-donburi-1.jpg" width="38%"/>
+<img src="./Photos/Snapper-donburi-2.jpg" width="35%"/>
 </center>
 
 ### 照燒豬肉蓋飯 ###
@@ -230,12 +251,12 @@
 * 備註：可改用鮭魚，比較沒腥味...
 
 <center>
-<img src="./Grilled-snapper-1.jpg" width="38%"/>
-<img src="./Grilled-snapper-2.jpg" width="30%"/>
+<img src="./Photos/Grilled-snapper-1.jpg" width="38%"/>
+<img src="./Photos/Grilled-snapper-2.jpg" width="30%"/>
 </center>
 
 <center>
-<img src="./Grilled-snapper-3.jpg" width="30%"/>
-<img src="./Grilled-snapper-4.jpg" width="30.5%"/>
-<img src="./Grilled-snapper-5.jpg" width="30%"/>
+<img src="./Photos/Grilled-snapper-3.jpg" width="30%"/>
+<img src="./Photos/Grilled-snapper-4.jpg" width="30.5%"/>
+<img src="./Photos/Grilled-snapper-5.jpg" width="30%"/>
 </center>
