@@ -47,7 +47,7 @@
 * 作法：
 	* 牛排先拿出冰箱置於室溫1hr，表面用紙巾擦一下再抹點鹽&黑胡椒.
 	* 開中火3熱鍋，放點奶油，放入牛排正反側面各煎1min，共3min.
-	* 轉中小火2，牛排1cm厚的話再煎2min，牛排2cm厚的話再煎4min，正反面時間平均分配.
+	* 牛排1cm厚的話轉中小火2再煎2min，牛排2cm厚的話原火再煎4min，正反面時間平均分配.
 	* 要吃的時候可以再灑點鹽&黑胡椒.
 * 備註：依此可煎出外焦熟內粉紅的牛排；牛排部位是重點，最好挑油脂多的，煎出來的牛排才會軟嫩...
 
@@ -58,8 +58,9 @@
 </center>
 
 <center>
-<img src="./Photos/Steak-4.jpg" width="40%"/>
-<img src="./Photos/Steak-5.jpg" width="40%"/>
+<img src="./Photos/Steak-4.jpg" width="30%"/>
+<img src="./Photos/Steak-5.jpg" width="30%"/>
+<img src="./Photos/Steak-6.jpg" width="29.2%"/>
 </center>
 
 ###  蔥肉捲 ###
@@ -103,7 +104,7 @@
 
 ### 調味料 ###
 <center>
-<img src="./Photos/Condiment-for-steamed-food.jpg" width="40%" />
+<img src="./Photos/Condiment-for-steamed-food.jpg" width="40%"/>
 </center>
 
 ### 溏心蛋 ###
@@ -141,12 +142,14 @@
 	* 鍋裡裝足夠的水開大火5煮滾.
 	* 將青菜放入煮約3min.
 	* 把菜撈起調味即可.
-* 備註：煮的時候可放薑絲&香油&鹽增添風味，最後選用醬油or油膏依個人喜好；個人喜歡A菜、菠菜、龍鬚菜、皇宮菜...
+* 備註：煮的時候可放薑絲&香油&鹽增添風味，最後選用醬油or油膏依個人喜好；個人喜歡A菜、菠菜、甜菠菜、龍鬚菜、皇宮菜、空心菜...
 
 <center>
 <img src="./Photos/Boiled-vegetable-1.jpg" width="40%"/>
-<img src="./Photos/Boiled-vegetable-2.jpg" width="40%"/>
+<img src="./Photos/Boiled-vegetable-3.jpg" width="38.75%"/>
 </center>
+
+<div style="page-break-after: always;"></div>
 
 ### 清蒸魚 ###
 * 材料：魚，蔥，薑，米酒，龜甲萬鰹魚和露.
@@ -211,8 +214,14 @@
 </center>
 
 ### 月見牛肉丼 ###
-* TBC
-* 備註：蛋可選擇料理成滑蛋、溏心蛋、或水波蛋.
+* 材料：同日式豬肉丼，豬肉改牛肉，照片裡蔥花用甜菠菜取代.
+* 醬汁：同日式豬肉丼.
+* 作法：同日式豬肉丼，蛋的部分做成生蛋而已.
+
+<center>
+<img src="./Photos/Moonlight-beef-1.jpg" width="40%"/>
+<img src="./Photos/Moonlight-beef-2.jpg" width="40%"/>
+</center>
 
 ### 滑蛋鯛魚丼 ###
 * 材料：鯛魚1片，洋蔥1顆，山茼蒿1小把，醬汁如下，米酒少許，奶油少許，七味粉，蛋2顆，白飯.
@@ -229,13 +238,13 @@
 * 備註：可改用鮭魚，比較沒腥味...
 
 <center>
-<img src="./Photos/Snapper-donburi-1.jpg" width="38%"/>
-<img src="./Photos/Snapper-donburi-2.jpg" width="35%"/>
+<img src="./Photos/Snapper-donburi-1.jpg" width="40%"/>
+<img src="./Photos/Snapper-donburi-2.jpg" width="37%"/>
 </center>
 
 ### 照燒豬肉蓋飯 ###
 * 材料：豬肉片250g，醬汁如下，米酒少許，奶油少許，七味粉，白芝麻，白飯.
-* 醬汁：醬油1大匙、米酒1大匙、糖1大匙、味霖2大匙、水2大匙.
+* 醬汁：醬油1大匙、米酒1大匙、糖1大匙、味霖2大匙、水2大匙 or 糖1大匙、味霖2大匙、醬油3大匙、水4大匙.
 * 作法：
 	* 肉片用米酒&水醃置.
 	* 調好醬汁.
@@ -247,7 +256,8 @@
 * 備註：高麗菜絲太費工了，另一半也不喜歡高麗菜，所以省略...海苔沒特別愛，也省略...
 
 <center>
-<img src="./Photos/Teriyaki-pork.jpg" width="38%"/>
+<img src="./Photos/Teriyaki-pork-2.jpg" width="40%"/>
+<img src="./Photos/Teriyaki-pork.jpg" width="39%"/>
 </center>
 
 ### 蒲燒鯛魚蓋飯 ###
