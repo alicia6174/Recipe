@@ -283,7 +283,7 @@
 <center>
 <img src="./Photos/Grilled-snapper-3.jpg" width="30%"/>
 <img src="./Photos/Grilled-snapper-4.jpg" width="30.5%"/>
-<img src="./Photos/Grilled-snapper-5.jpg" width="30%"/>
+<img src="./Photos/Grilled-snapper-6.jpg" width="30%"/>
 </center>
 
 ### 鮮魚粥 ###
@@ -318,8 +318,9 @@
 	* 鍋內留少許油，放入鮮蔬炒熟，再放入醬汁，最後放入魚塊，充分炒熱後即可.
 
 <center>
-<img src="./Photos/Sweet-and-sour-fish-1.jpg" width="40%"/>
-<img src="./Photos/Sweet-and-sour-fish-2.jpg" width="40%"/>
+<img src="./Photos/Sweet-and-sour-fish-3.jpg" width="30%"/>
+<img src="./Photos/Sweet-and-sour-fish-1.jpg" width="30%"/>
+<img src="./Photos/Sweet-and-sour-fish-2.jpg" width="30%"/>
 </center>
 
 ### 鮭魚炒飯 ###
@@ -334,9 +335,19 @@
 
 <center>
 <img src="./Photos/Fried-rice-with-salmon-1.jpg" width="40%"/>
-<img src="./Photos/Fried-rice-with-salmon-2.jpg" width="40%"/>
+<img src="./Photos/Fried-rice-with-salmon-3.jpg" width="40%"/>
 </center>
 
+### 蛋包飯 ###
+* 材料：炒飯1小碗，蛋*2，牛奶1小匙，糖少許，鹽少許，番茄醬少許.
+* 做法：
+	* 蛋打散，放入牛奶、鹽、糖拌勻.
+	* 平底鍋開中火(*3)，放入蛋液，用筷子不斷在蛋液中間部分攪拌.
+	* 待蛋液開始凝固時轉中小火(*2)，等中間都差不多凝固時，放入炒飯，再用鏟子從邊緣鏟起蛋皮包裹裝盤，淋少許番茄醬即可.
+* 備註：其實我不懂為何要不斷在蛋液中間攪拌...
 
+<center>
+<img src="./Photos/Omu-raisu-1.jpg" width="40%"/>
 
+</center>
 
